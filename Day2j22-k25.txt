@@ -28,7 +28,7 @@ Q2: Private IP address are IP give to connect
     to local network.
    big/large:  10.0.0.0/8 -> 16,777,214 ip address.
   
-   medium:    172.16.0.0/16 -> 64,534 ip address
+   medium/vpn ip:    172.16.0.0/16 -> 64,534 ip address   
 
    home:   192.168.0-254.0/24 -> 254 ip address
 
@@ -39,7 +39,7 @@ specialAddress; 0.0.0.0:defRoute
 A = 1-126
 B = 128-191
 C = 192-223
-D = 224-239
+D = 224-239  
 E = 240-255
 
 TASK3: how a network/systems/Prog engineer looks 
