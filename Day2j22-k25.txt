@@ -15,11 +15,11 @@ Q1: what are public IP address and private
 ip address.
 Public IP address are Internet PingableIP/
 routable IP address.
-208.67.222.222
-208.67.220.220
-8.8.8.8
-1.1.1.1
-4.2.2.2
+208.67.222.222  Open DNS
+208.67.220.220  Open DNS
+8.8.8.8  Google DS
+1.1.1.1  Cloudfare DNS
+4.2.2.2  Google DNS
 
 What are Traceable IP Address:
 tracert www.x-art.com
